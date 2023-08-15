@@ -1,0 +1,22 @@
+body {
+  margin: 20px;
+}
+
+header {
+  text-align: center;
+}
+header .selfi {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  margin: 20px;
+}
+
+.section__header {
+  text-align: center;
+}
+
+.section__bold {
+  color: rgb(23, 23, 163);
+}/*# sourceMappingURL=portfolio.css.map */
